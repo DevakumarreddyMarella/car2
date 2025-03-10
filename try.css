@@ -1,0 +1,20 @@
+.section-1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    position: absolute;
+    padding: 20px;
+}
+.about
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.about-text
+{
+    max-width: 50%;
+}
